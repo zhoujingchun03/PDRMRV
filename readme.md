@@ -4,7 +4,7 @@ A Pixel Distribution Remapping and Multi-prior Retinex Variational Model for Und
 This repository contains the code for the PDRMRV algorithm developed by Zhou et al. The code is written in MATLAB.
 
 # Usage
-To use the code, simply download the repository and run the demo.m script in MATLAB. The script takes as input an underwater image and returns the restored image using the MSPE algorithm.
+To use the code, simply download the repository and run the main.m script in MATLAB. The script takes as input an underwater image and returns the restored image using the PDRMRV algorithm.
 
 # Citation
 If you use this code in your research, please cite the following paper:
